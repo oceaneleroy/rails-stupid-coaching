@@ -1,0 +1,46 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.coaching {
+  text-align: center;
+}
+
+.you {
+  border-left: 8px solid #DDDDDD;
+  padding-left: 5px;
+}
+
+.coach {
+  border-left: 8px solid #DDDDDD;
+  padding-left: 5px;
+  background-color: #D5C5C8;
+}
+
+a {
+  text-decoration : none;
+  color: #660000;
+}
+
+a:hover {
+  color : #DB7F8E;
+}
+
+input[type=text] {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 4px;
+  border-radius: 4px;
+  border: 2px dotted red;
+}
+
+#submit {
+  background-color: #B9929F;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+
+}
